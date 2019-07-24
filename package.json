@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.16.3"
+  },
+  "scripts": {
+    "clean": "npx lerna clean -y && npx lerna bootstrap --hoist --nohoist=webpack*"
+  }
+}

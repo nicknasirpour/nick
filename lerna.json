@@ -1,0 +1,6 @@
+{
+  "packages": [
+    "angular", "reactjs"
+  ],
+  "version": "independent"
+}
